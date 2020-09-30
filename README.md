@@ -1,5 +1,5 @@
 # photographyWebsite
-landing website for photography
+launching photography wesites for you
 
 # How to run Website
 
